@@ -1,0 +1,19 @@
+{
+  "name": "aomine",
+  "version": "1.0.0",
+  "description": "\"creation d'un dashboard\"",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "koffi kouassi yves-joseph",
+  "license": "ISC"
+}
